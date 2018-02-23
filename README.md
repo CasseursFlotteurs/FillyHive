@@ -1,5 +1,6 @@
 Filly Hive
 =========
+> A rocket fueled unicorn set to take over the web
 
 ```
 													
